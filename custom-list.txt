@@ -25,11 +25,12 @@ tutorialsdojo.com##.popup__bg
 tutorialsdojo.com##.popup.active
 tutorialsdojo.com##.active.promotion-header
 
-! Updated 2024-11-06
+! Updated 2025-05-27
 www.udemy.com##.ud-app-loaded.ud-header.ud-component--header-v6--header.ud-app-loader > section
 www.udemy.com##.advertising-banner-module--dark--9tTFN.advertising-banner-module--container--tYUEC.component-margin.ub-training-people-module--background-container--lqUGp
 www.udemy.com##.teach-on-udemy-banner-module--banner--fjaNL.footer-section
 www.udemy.com##.ufb-notice-module--notice-row--LgC7t.footer-section
+www.udemy.com##section[aria-label="Marketing notification from Udemy"]
 
 ! Updated 2024-12-19
 en.wikipedia.org##.frb-country-AU.frb-rml-enabled.frb
