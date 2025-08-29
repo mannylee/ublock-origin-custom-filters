@@ -19,6 +19,8 @@ www.examtopics.com##.contrib-new.contrib > .contrib__block
 ! Updated 2025-08-20
 medium.com##*:has-text(/^(Distraction-free reading. No ads.|Organize your knowledge with lists and highlights.|Tell your story. Find your audience.|Read member-only stories|Support writers you read most|Earn money for your writing|Listen to audio narrations|Read offline with the Medium app)$/):nth-ancestor(8)
 medium.com##div:has(> div > p:has-text(Join Medium for free to get updates from))
+# Fix scrollbar
+medium.com##body:style(overflow: visible !important;)
 
 ! Updated 2025-08-12
 www.perplexity.ai##.duration-300.ease-in.fade-in.animate-in.right-0.left-0.bottom-0.fixed.flex-col.md\:max-h-\[96vh\].h-\[100dvh\].w-screen.justify-end.items-center.flex.to-transparent.from-45\%.from-base.bg-gradient-to-t.fill-mode-both.scrollbar-track-transparent.dark\:scrollbar-thumb-idleDark.scrollbar-thumb-idle.scrollbar-thin.overflow-y-auto.shadow-md
