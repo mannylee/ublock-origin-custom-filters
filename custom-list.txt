@@ -10,6 +10,14 @@
 ! All websites: Google sign in picker
 ###credential_picker_container
 
+! 2025-08-29 https://chocolatey.org
+chocolatey.org##body { overflow: visible !important; padding-right: 0 !important; }
+chocolatey.org##div#package-disclaimer
+chocolatey.org##div.modal-backdrop
+chocolatey.org###topNoticeAlert
+chocolatey.org##.row > div.d-none.d-xl-block.col-xl-2.border-start.px-3.pb-3.order-3
+chocolatey.org###mc_embed_signup
+
 ! Updated 2024-07-10
 codeburst.io##.rz.ry.rx.m
 
