@@ -24,6 +24,9 @@ codeburst.io##.rz.ry.rx.m
 ! Updated 2024-10-29
 www.examtopics.com##.contrib-new.contrib > .contrib__block
 
+! 2025-08-29 https://www.gsmarena.com
+gsmarena.com##div:has(> h4:has-text(GSMArena daily deals))
+
 ! Updated 2025-08-20
 medium.com##*:has-text(/^(Distraction-free reading. No ads.|Organize your knowledge with lists and highlights.|Tell your story. Find your audience.|Read member-only stories|Support writers you read most|Earn money for your writing|Listen to audio narrations|Read offline with the Medium app)$/):nth-ancestor(8)
 medium.com##div:has(> div > p:has-text(Join Medium for free to get updates from))
