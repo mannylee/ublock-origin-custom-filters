@@ -7,10 +7,23 @@
 ! custom-list.txt
 
 ! Updated 2024-07-24
-! All websites: Google sign in picker
+! Google sign in picker
 ###credential_picker_container
+! Cookies consent
+###onetrust-consent-sdk
+###ot-pc-slim
 
-! 2025-08-29 https://chocolatey.org
+! Updated 2025-08-31
+cathaypacific.com##html:style(overflow:auto !important; overflowY:unset !important; )
+cathaypacific.com##body:style(overflow:auto !important; height:100vh !important;)
+cathaypacific.com##.headerMdSm > .headerMdSm__topBar:style(position:fixed; )
+cathaypacific.com##.aem-container.aem-Grid.aem-Grid--12.aem-Grid--default--12 > .aem-GridColumn.aem-GridColumn--default--12:nth-of-type(2):style(padding-top:54px !important;)
+cathaypacific.com##.browserAlert
+
+! Updated 2025-08-30
+changiairport.com##.cmp-experiencefragment.cmp-experiencefragment--cookie
+
+! Updated 2025-08-29
 chocolatey.org##body { overflow: visible !important; padding-right: 0 !important; }
 chocolatey.org##div#package-disclaimer
 chocolatey.org##div.modal-backdrop
@@ -24,7 +37,7 @@ codeburst.io##.rz.ry.rx.m
 ! Updated 2024-10-29
 www.examtopics.com##.contrib-new.contrib > .contrib__block
 
-! 2025-08-29 https://www.gsmarena.com
+! Updated 2025-08-29
 gsmarena.com##div:has(> h4:has-text(GSMArena daily deals))
 
 ! Updated 2025-08-20
