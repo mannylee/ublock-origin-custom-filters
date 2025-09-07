@@ -57,6 +57,16 @@ www.shangri-la.com##div:has(#js-cookie-manage)
 www.shangri-la.com##body { overflow: visible !important; }
 www.shangri-la.com##div.smartbanner.smartbanner--android.js_smartbanner
 
+! Updated 2025-09-07
+www.timeout.com##.pushly-prompt-wrapper
+www.timeout.com##body > div.containerAdWrapper
+www.timeout.com##.involveme_embed_popup, .involveme_embed_popup-bg
+www.timeout.com##.newsletter_inline_banner, .newsletter_inline
+www.timeout.com##div[class*="_commercial_osmln_"]
+www.timeout.com##._wave_1fecn_5._wave_1v957_1
+www.timeout.com##body { overflow-y: visible !important; }
+www.timeout.com##div[data-component="footer-newsletter"]
+
 ! Updated 2025-04-29
 tutorialsdojo.com##.popup__bg
 tutorialsdojo.com##.popup.active
