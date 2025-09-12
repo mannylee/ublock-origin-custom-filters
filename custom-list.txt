@@ -84,3 +84,7 @@ www.udemy.com##section[aria-label="Marketing notification from Udemy"]
 ! Updated 2024-12-19
 en.wikipedia.org##.frb-country-AU.frb-rml-enabled.frb
 en.wikipedia.org##.frb-nag-link
+
+! Updated 2025-09-11
+www.yunzii.com###wheelio2-app-cointainer
+www.yunzii.com##.closed.seventy-percent.bottom.left.Avada-Joy_ButtonWidget
