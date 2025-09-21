@@ -48,7 +48,7 @@ www.examtopics.com##.contrib-new.contrib > .contrib__block
 www.flightaware.com##.blue.flightPagePremiumUpsell
 
 ! Updated 2025-08-29
-gsmarena.com##div:has(> h4:has-text(GSMArena daily deals))
+gsmarena.com##:xpath(//div[h4[contains(translate(normalize-space(text()), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'gsmarena daily deals')]]):style(visibility: hidden !important; display: none !important)
 
 ! Updated 2025-09-21
 forums.hardwarezone.com.sg##div.widget_highlight_forum_ads, div.focus-ad
