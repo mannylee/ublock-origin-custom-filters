@@ -31,11 +31,21 @@ chocolatey.org###topNoticeAlert
 chocolatey.org##.row > div.d-none.d-xl-block.col-xl-2.border-start.px-3.pb-3.order-3
 chocolatey.org###mc_embed_signup
 
+! Updated 2025-09-21
+www.circles.life##.css-74ce5m
+www.circles.life##div.css-p39czc:style(margin-top: 0px !important)
+www.circles.life##div.css-1s984ub:style(margin-top: 0px !important)
+www.circles.life##div#ExpandableMasthead:style(margin-top: 0px !important)
+www.circles.life##div[class^="lightbox-"]:style(margin-top: 0px !important)
+
 ! Updated 2024-07-10
 codeburst.io##.rz.ry.rx.m
 
 ! Updated 2024-10-29
 www.examtopics.com##.contrib-new.contrib > .contrib__block
+
+! Updated 2025-09-21
+www.flightaware.com##.blue.flightPagePremiumUpsell
 
 ! Updated 2025-08-29
 gsmarena.com##div:has(> h4:has-text(GSMArena daily deals))
@@ -58,6 +68,12 @@ www.shangri-la.com##div:has(#js-cookie-modal)
 www.shangri-la.com##div:has(#js-cookie-manage)
 www.shangri-la.com##body { overflow: visible !important; }
 www.shangri-la.com##div.smartbanner.smartbanner--android.js_smartbanner
+
+! Updated 2025-09-21
+singlife.com##div.sl-notification
+singlife.com##div.promobar.aem-GridColumn.aem-GridColumn--default--12
+mysinglife.singlife.com##div.css-gnoxxa
+mysinglife.singlife.com##div.css-1uscdaf
 
 ! Updated 2025-09-07
 www.timeout.com##.pushly-prompt-wrapper
@@ -88,3 +104,6 @@ en.wikipedia.org##.frb-nag-link
 ! Updated 2025-09-11
 www.yunzii.com###wheelio2-app-cointainer
 www.yunzii.com##.closed.seventy-percent.bottom.left.Avada-Joy_ButtonWidget
+
+! Updated 2025-09-21
+zym.sg##section#information
