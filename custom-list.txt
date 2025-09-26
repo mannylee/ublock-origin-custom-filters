@@ -41,6 +41,10 @@ www.circles.life##div[class^="lightbox-"]:style(margin-top: 0px !important)
 ! Updated 2024-07-10
 codeburst.io##.rz.ry.rx.m
 
+! Updated 2025-09-26
+dev.to##div#index-container > div#sidebar-wrapper-left > aside.side-bar > div.crayons-card.crayons-card--secondary.p-4
+dev.to##div#page-content > div#page-content-inner > div.js-billboard-container.pb-4.crayons-layout__comments-billboard
+
 ! Updated 2024-10-29
 www.examtopics.com##.contrib-new.contrib > .contrib__block
 
