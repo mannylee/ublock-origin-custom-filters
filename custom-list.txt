@@ -1,6 +1,6 @@
 ! Title: Manny's custom filters
-! Version: 20250820
-! Last modified: 2025-08-20
+! Version: 20250926
+! Last modified: 2025-09-26
 ! Expires: 14 days (update frequency)
 !
 !--------------------------General blocking rules-----------------------------!
