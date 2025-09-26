@@ -13,6 +13,10 @@
 ###onetrust-consent-sdk
 ###ot-pc-slim
 
+
+! Updated 2025-09-26
+1337x.st,1337x.to##in-page-message
+
 ! Updated 2025-09-26
 bitwarden.com##body > div#app > div.bg-secondary-50 > div.relative.bg-indigoBlue.text-white.text-center.align-middle.pt-2.pb-3.border-deepBlue, main > div > section#password-generator-hero, main > div > section#gm-5-star-user-ratings-validation
 bitwarden.com##section { padding-top: 0px !important; }
