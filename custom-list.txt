@@ -49,6 +49,17 @@ www.circles.life##div[class^="lightbox-"]:style(margin-top: 0px !important)
 ! Updated 2024-07-10
 codeburst.io##.rz.ry.rx.m
 
+! Updated 2025-09-28
+ctvnews.ca##div.c-stack.b-double-chain-custom > div.c-grid.b-double-chain-custom__children-grid--even > div.c-stack.b-double-chain-custom__child-item > article.b-promo-medium-manual-custom.b-promo-medium-manual-custom--standard, section > div > div.c-stack.b-share-bar
+
+! Updated 2025-09-28
+dailyhive.com##.onesignal-slidedown-container
+dailyhive.com###fw-player
+dailyhive.com##div[class*="Header_newsletterButton"]
+dailyhive.com##div[class*="IframeNewsletter_iframe-newsletter-subscription"]
+dailyhive.com##div[class*="PartnerArticleHolder_partner-article-card-holder"]
+dailyhive.com###vf-conversation-starter
+
 ! Updated 2025-09-26
 dev.to##div#index-container > div#sidebar-wrapper-left > aside.side-bar > div.crayons-card.crayons-card--secondary.p-4
 dev.to##div#page-content > div#page-content-inner > div.js-billboard-container.pb-4.crayons-layout__comments-billboard
