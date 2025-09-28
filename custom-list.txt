@@ -59,6 +59,7 @@ dailyhive.com##div[class*="Header_newsletterButton"]
 dailyhive.com##div[class*="IframeNewsletter_iframe-newsletter-subscription"]
 dailyhive.com##div[class*="PartnerArticleHolder_partner-article-card-holder"]
 dailyhive.com###vf-conversation-starter
+dailyhive.com##div.article-vf-wrapper > div.article-content.post > div.wp-content > div > div.viafoura
 
 ! Updated 2025-09-26
 dev.to##div#index-container > div#sidebar-wrapper-left > aside.side-bar > div.crayons-card.crayons-card--secondary.p-4
