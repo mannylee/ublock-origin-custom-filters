@@ -79,6 +79,11 @@ gsmarena.com##:xpath(//div[h4[contains(translate(normalize-space(text()), 'ABCDE
 forums.hardwarezone.com.sg##div.widget_highlight_forum_ads, div.focus-ad
 hardwarezone.com.sg##div.sphm_ad_container.lb-wrapper.top-lb-wrapper, div.sphm_ad_sticky_container, div._container_zfiqn_1, div._newsletterOuterContainer_1iadt_459
 
+! Updated 2025-09-28
+globalnews.ca##.c-inlineSignup
+globalnews.ca##.u-hide-tablet-landscape > .c-newsletterSignup
+globalnews.ca##div#newsletters-signup-sidebar
+
 ! Updated 2025-09-26
 ip.me##div.container > div.d-flex.align-items-center.cta-container, div.container > div.container.three-boxes, div.container > h2.mt-5.faq-title, div.container > div#accordion
 
