@@ -1,6 +1,6 @@
 ! Title: Manny's custom filters
-! Version: 20251006
-! Last modified: 2025-10-06
+! Version: 20251119
+! Last modified: 2025-11-19
 ! Expires: 14 days (update frequency)
 !
 !--------------------------General blocking rules-----------------------------!
@@ -71,6 +71,14 @@ www.examtopics.com##.contrib-new.contrib > .contrib__block
 
 ! Updated 2025-09-21
 www.flightaware.com##.blue.flightPagePremiumUpsell
+
+! Updated 2025-11-19
+ft.com##iframe[title="SP Consent Message"]
+ft.com##div[id^="sp_message_container_"]
+ft.com##body:style(overflow: visible !important; position: static !important; margin-top: 0px !important;)
+ft.com##div.n-layout__header-before > div.slot-wrapper
+ft.com##div.n-layout__row.n-layout__row--header > div.n-layout__header-before
+ft.com##div.article__content-sign-up
 
 ! Updated 2025-08-29
 gsmarena.com##:xpath(//div[h4[contains(translate(normalize-space(text()), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'gsmarena daily deals')]]):style(visibility: hidden !important; display: none !important)
