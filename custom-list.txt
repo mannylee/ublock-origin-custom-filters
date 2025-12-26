@@ -35,8 +35,9 @@ cathaypacific.com##.browserAlert
 ! Updated 2025-08-30
 changiairport.com##.cmp-experiencefragment.cmp-experiencefragment--cookie
 
-! Updated 2025-12-26
+! Updated 2025-12-27
 chatgpt.com##div[role="dialog"][aria-modal="true"][aria-live="polite"].z-\[100\]
+chatgpt.com##div.text-token-text-secondary.text-xs.justify-center.\[view-transition-name\:var\(--vt-disclaimer\)\]
 
 ! Updated 2025-08-29
 chocolatey.org##body { overflow: visible !important; padding-right: 0 !important; }
@@ -118,7 +119,7 @@ medium.com##div:has(> div > div > p > span:has-text(Writing is for everyone))
 moneysmart.sg##.ab-modal-interactions.ab-html-message.ab-in-app-message
 moneysmart.sg##div.listing-card--closed.listing-card--new-product-image-size.listing-card--badge.listing-card--exclusive.listing-card--product.listing-card > .listing-card__sponsored
 
-! Updated 2025-08-12
+! Updated 2025-12-27
 perplexity.ai##.duration-300.ease-in.fade-in.animate-in.right-0.left-0.bottom-0.fixed.flex-col.md\:max-h-\[96vh\].h-\[100dvh\].w-screen.justify-end.items-center.flex.to-transparent.from-45\%.from-base.bg-gradient-to-t.fill-mode-both.scrollbar-track-transparent.dark\:scrollbar-thumb-idleDark.scrollbar-thumb-idle.scrollbar-thin.overflow-y-auto.shadow-md
 perplexity.ai##.bg-offset.divide-borderMain\/50.ring-borderMain\/50.border-borderMain\/50.ease-out.duration-300.shadow-md.rounded-lg.fade-in.animate-in.py-lg.px-md
 perplexity.ai##.duration-300.ease-in.fade-in.animate-in.right-0.left-0.bottom-0.fixed.flex-col.md\:max-h-\[96vh\].h-\[100dvh\].w-screen.justify-end.items-center.flex.to-transparent.from-45\%.from-base.bg-gradient-to-t.fill-mode-both.scrollbar-subtle.overflow-y-auto.shadow-md
