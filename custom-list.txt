@@ -1,6 +1,6 @@
 ! Title: Manny's custom filters
-! Version: 20251119
-! Last modified: 2025-11-19
+! Version: 20251227
+! Last modified: 2025-12-27
 ! Expires: 14 days (update frequency)
 !
 !--------------------------General blocking rules-----------------------------!
@@ -47,11 +47,11 @@ chocolatey.org##.row > div.d-none.d-xl-block.col-xl-2.border-start.px-3.pb-3.ord
 chocolatey.org###mc_embed_signup
 
 ! Updated 2025-09-21
-www.circles.life##.css-74ce5m
-www.circles.life##div.css-p39czc:style(margin-top: 0px !important)
-www.circles.life##div.css-1s984ub:style(margin-top: 0px !important)
-www.circles.life##div#ExpandableMasthead:style(margin-top: 0px !important)
-www.circles.life##div[class^="lightbox-"]:style(margin-top: 0px !important)
+circles.life##.css-74ce5m
+circles.life##div.css-p39czc:style(margin-top: 0px !important)
+circles.life##div.css-1s984ub:style(margin-top: 0px !important)
+circles.life##div#ExpandableMasthead:style(margin-top: 0px !important)
+circles.life##div[class^="lightbox-"]:style(margin-top: 0px !important)
 
 ! Updated 2024-07-10
 codeburst.io##.rz.ry.rx.m
@@ -74,10 +74,10 @@ dev.to##div#index-container > div#sidebar-wrapper-left > aside.side-bar > div.cr
 dev.to##div#page-content > div#page-content-inner > div.js-billboard-container.pb-4.crayons-layout__comments-billboard
 
 ! Updated 2024-10-29
-www.examtopics.com##.contrib-new.contrib > .contrib__block
+examtopics.com##.contrib-new.contrib > .contrib__block
 
 ! Updated 2025-09-21
-www.flightaware.com##.blue.flightPagePremiumUpsell
+flightaware.com##.blue.flightPagePremiumUpsell
 
 ! Updated 2025-11-19
 ft.com##iframe[title="SP Consent Message"]
@@ -115,19 +115,19 @@ medium.com##body:style(overflow: visible !important;)
 medium.com##div:has(> div > div > p > span:has-text(Writing is for everyone))
 
 ! Updated 2025-09-21
-www.moneysmart.sg##.ab-modal-interactions.ab-html-message.ab-in-app-message
-www.moneysmart.sg##div.listing-card--closed.listing-card--new-product-image-size.listing-card--badge.listing-card--exclusive.listing-card--product.listing-card > .listing-card__sponsored
+moneysmart.sg##.ab-modal-interactions.ab-html-message.ab-in-app-message
+moneysmart.sg##div.listing-card--closed.listing-card--new-product-image-size.listing-card--badge.listing-card--exclusive.listing-card--product.listing-card > .listing-card__sponsored
 
 ! Updated 2025-08-12
-www.perplexity.ai##.duration-300.ease-in.fade-in.animate-in.right-0.left-0.bottom-0.fixed.flex-col.md\:max-h-\[96vh\].h-\[100dvh\].w-screen.justify-end.items-center.flex.to-transparent.from-45\%.from-base.bg-gradient-to-t.fill-mode-both.scrollbar-track-transparent.dark\:scrollbar-thumb-idleDark.scrollbar-thumb-idle.scrollbar-thin.overflow-y-auto.shadow-md
-www.perplexity.ai##.bg-offset.divide-borderMain\/50.ring-borderMain\/50.border-borderMain\/50.ease-out.duration-300.shadow-md.rounded-lg.fade-in.animate-in.py-lg.px-md
-www.perplexity.ai##.duration-300.ease-in.fade-in.animate-in.right-0.left-0.bottom-0.fixed.flex-col.md\:max-h-\[96vh\].h-\[100dvh\].w-screen.justify-end.items-center.flex.to-transparent.from-45\%.from-base.bg-gradient-to-t.fill-mode-both.scrollbar-subtle.overflow-y-auto.shadow-md
+perplexity.ai##.duration-300.ease-in.fade-in.animate-in.right-0.left-0.bottom-0.fixed.flex-col.md\:max-h-\[96vh\].h-\[100dvh\].w-screen.justify-end.items-center.flex.to-transparent.from-45\%.from-base.bg-gradient-to-t.fill-mode-both.scrollbar-track-transparent.dark\:scrollbar-thumb-idleDark.scrollbar-thumb-idle.scrollbar-thin.overflow-y-auto.shadow-md
+perplexity.ai##.bg-offset.divide-borderMain\/50.ring-borderMain\/50.border-borderMain\/50.ease-out.duration-300.shadow-md.rounded-lg.fade-in.animate-in.py-lg.px-md
+perplexity.ai##.duration-300.ease-in.fade-in.animate-in.right-0.left-0.bottom-0.fixed.flex-col.md\:max-h-\[96vh\].h-\[100dvh\].w-screen.justify-end.items-center.flex.to-transparent.from-45\%.from-base.bg-gradient-to-t.fill-mode-both.scrollbar-subtle.overflow-y-auto.shadow-md
 
 ! Updated 2025-08-29 
-www.shangri-la.com##div:has(#js-cookie-modal)
-www.shangri-la.com##div:has(#js-cookie-manage)
-www.shangri-la.com##body { overflow: visible !important; }
-www.shangri-la.com##div.smartbanner.smartbanner--android.js_smartbanner
+shangri-la.com##div:has(#js-cookie-modal)
+shangri-la.com##div:has(#js-cookie-manage)
+shangri-la.com##body { overflow: visible !important; }
+shangri-la.com##div.smartbanner.smartbanner--android.js_smartbanner
 
 ! Updated 2025-09-21
 singlife.com##div.sl-notification
@@ -138,15 +138,20 @@ mysinglife.singlife.com##div.css-1uscdaf
 ! Updated 2025-10-06
 straitstimes.com##div.article-ads-wrapper
 
+! Updated 2025-12-27
+thehoneycombers.com##div.pum.pum-overlay.pum-theme-default-theme.popmake-overlay.auto_open.click_open[id*="pum-"]
+thehoneycombers.com##html:watch-attr(class):remove-class(/^(pum-open|pum-open-overlay|pum-open-scrollable)$/)
+thehoneycombers.com###wpconsent-root
+
 ! Updated 2025-09-07
-www.timeout.com##.pushly-prompt-wrapper
-www.timeout.com##body > div.containerAdWrapper
-www.timeout.com##.involveme_embed_popup, .involveme_embed_popup-bg
-www.timeout.com##.newsletter_inline_banner, .newsletter_inline
-www.timeout.com##div[class*="_commercial_osmln_"]
-www.timeout.com##._wave_1fecn_5._wave_1v957_1
-www.timeout.com##body { overflow-y: visible !important; }
-www.timeout.com##div[data-component="footer-newsletter"]
+timeout.com##.pushly-prompt-wrapper
+timeout.com##body > div.containerAdWrapper
+timeout.com##.involveme_embed_popup, .involveme_embed_popup-bg
+timeout.com##.newsletter_inline_banner, .newsletter_inline
+timeout.com##div[class*="_commercial_osmln_"]
+timeout.com##._wave_1fecn_5._wave_1v957_1
+timeout.com##body { overflow-y: visible !important; }
+timeout.com##div[data-component="footer-newsletter"]
 
 ! Updated 2025-04-29
 tutorialsdojo.com##.popup__bg
@@ -154,19 +159,19 @@ tutorialsdojo.com##.popup.active
 tutorialsdojo.com##.active.promotion-header
 
 ! Updated 2025-05-27
-www.udemy.com##.ud-app-loaded.ud-header.ud-component--header-v6--header.ud-app-loader > section
-www.udemy.com##.advertising-banner-module--dark--9tTFN.advertising-banner-module--container--tYUEC.component-margin.ub-training-people-module--background-container--lqUGp
-www.udemy.com##.teach-on-udemy-banner-module--banner--fjaNL.footer-section
-www.udemy.com##.ufb-notice-module--notice-row--LgC7t.footer-section
-www.udemy.com##section[aria-label="Marketing notification from Udemy"]
+udemy.com##.ud-app-loaded.ud-header.ud-component--header-v6--header.ud-app-loader > section
+udemy.com##.advertising-banner-module--dark--9tTFN.advertising-banner-module--container--tYUEC.component-margin.ub-training-people-module--background-container--lqUGp
+udemy.com##.teach-on-udemy-banner-module--banner--fjaNL.footer-section
+udemy.com##.ufb-notice-module--notice-row--LgC7t.footer-section
+udemy.com##section[aria-label="Marketing notification from Udemy"]
 
 ! Updated 2024-12-19
 en.wikipedia.org##.frb-country-AU.frb-rml-enabled.frb
 en.wikipedia.org##.frb-nag-link
 
 ! Updated 2025-09-11
-www.yunzii.com###wheelio2-app-cointainer
-www.yunzii.com##.closed.seventy-percent.bottom.left.Avada-Joy_ButtonWidget
+yunzii.com###wheelio2-app-cointainer
+yunzii.com##.closed.seventy-percent.bottom.left.Avada-Joy_ButtonWidget
 
 ! Updated 2025-09-21
 zym.sg##section#information
