@@ -1,6 +1,6 @@
 ! Title: Manny's custom filters
-! Version: 20251227
-! Last modified: 2025-12-27
+! Version: 20251228
+! Last modified: 2025-12-28
 ! Expires: 14 days (update frequency)
 !
 !--------------------------General blocking rules-----------------------------!
@@ -142,8 +142,9 @@ singlife.com##div.promobar.aem-GridColumn.aem-GridColumn--default--12
 mysinglife.singlife.com##div.css-gnoxxa
 mysinglife.singlife.com##div.css-1uscdaf
 
-! Updated 2025-10-06
+! Updated 2025-12-28
 straitstimes.com##div.article-ads-wrapper
+straitstimes.com##div#am-widget
 
 ! Updated 2025-12-27
 thehoneycombers.com##div.pum.pum-overlay.pum-theme-default-theme.popmake-overlay.auto_open.click_open[id*="pum-"]
