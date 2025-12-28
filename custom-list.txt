@@ -17,6 +17,11 @@
 ! Updated 2025-09-26
 1337x.st,1337x.to##in-page-message
 
+! Updated 2025-12-28
+8days.sg##div.programtic-ads
+8days.sg##div[id*="browsi_adWrapper_ai_"]
+8days.sg###block-articledetailsubscriptionblock
+
 ! Updated 2025-12-26
 airbnb.*##div[data-testid="app-install-banner"]
 airbnb.*##div[role="dialog"][aria-modal="true"][aria-label^="Now you’ll see one price for your trip"]
