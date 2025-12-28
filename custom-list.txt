@@ -101,6 +101,7 @@ gsmarena.com##:xpath(//div[h4[contains(translate(normalize-space(text()), 'ABCDE
 forums.hardwarezone.com.sg##div.widget_highlight_forum_ads, div.focus-ad
 hardwarezone.com.sg##div.sphm_ad_container.lb-wrapper.top-lb-wrapper, div.sphm_ad_sticky_container, div._container_zfiqn_1, div._newsletterOuterContainer_1iadt_459
 hardwarezone.com.sg##div.innity-apps-sticky-ad[id^="innity_adslot_"], div#sphm_overlay
+hardwarezone.com.sg##div#am-widget
 
 ! Updated 2025-09-28
 globalnews.ca##.c-inlineSignup
