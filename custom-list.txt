@@ -160,6 +160,18 @@ thehoneycombers.com##div.pum.pum-overlay.pum-theme-default-theme.popmake-overlay
 thehoneycombers.com##html:watch-attr(class):remove-class(/^(pum-open|pum-open-overlay|pum-open-scrollable)$/)
 thehoneycombers.com###wpconsent-root
 
+! Updated 2026-02-10
+thewoksoflife.com##div.Campaign--css.CampaignType--popup.Campaign.spokane-campaign
+thewoksoflife.com##body:style(overflow: scroll !important;)
+thewoksoflife.com##section.site-footer-before.wp-block-template-part > div.wp-block-group.has-global-padding.is-layout-constrained.wp-block-group-is-layout-constrained > div.wp-block-group.has-global-padding.is-layout-constrained.wp-block-group-is-layout-constrained
+thewoksoflife.com##section.wp-block-template-part > div.wp-block-group.has-global-padding.is-layout-constrained.wp-block-group-is-layout-constrained > div.wp-block-group.has-border-color.has-tertiary-border-color.has-global-padding.is-layout-constrained.wp-block-group-is-layout-constrained
+thewoksoflife.com##div.wp-block-column.is-content.is-layout-flow.wp-block-column-is-layout-flow > div.entry-content.wp-block-post-content.has-global-padding.is-layout-constrained.wp-block-post-content-is-layout-constrained > div.wprm-recipe-container > div.wprm-recipe > div.wp-block-group
+thewoksoflife.com##div.wp-block-column.is-content.is-layout-flow.wp-block-column-is-layout-flow > div.entry-content.wp-block-post-content.has-global-padding.is-layout-constrained.wp-block-post-content-is-layout-constrained > div.wprm-recipe-container > div.wprm-recipe > div.creator-child-footer
+thewoksoflife.com##div.wp-block-column.is-content.is-layout-flow.wp-block-column-is-layout-flow > div.entry-content.wp-block-post-content.has-global-padding.is-layout-constrained.wp-block-post-content-is-layout-constrained > div.wprm-recipe-container > div.wprm-recipe > div.creator-child-main:style(border-bottom: 2px solid var(--wp--preset--color--contrast-light) !important;)
+thewoksoflife.com##div.wp-block-group.has-global-padding.is-layout-constrained.wp-container-core-group-is-layout-92b9201d.wp-block-group-is-layout-constrained.wp-container-core-group-is-layout-92b9201d:nth-of-type(2)
+thewoksoflife.com###dpsp-floating-sidebar
+
+
 ! Updated 2025-09-07
 timeout.com##.pushly-prompt-wrapper
 timeout.com##body > div.containerAdWrapper
