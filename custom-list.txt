@@ -22,7 +22,7 @@
 8days.sg##div[id*="browsi_adWrapper_ai_"]
 8days.sg###block-articledetailsubscriptionblock
 
-! Updated 2025-12-26
+! Updated 2026-03-15
 airbnb.*##div[data-testid="app-install-banner"]
 airbnb.*##:xpath(//span[text()='Prices include all fees']/../../..)
 
@@ -147,8 +147,9 @@ singlife.com##div.promobar.aem-GridColumn.aem-GridColumn--default--12
 mysinglife.singlife.com##div.css-gnoxxa
 mysinglife.singlife.com##div.css-1uscdaf
 
-! Updated 2026-02-10
-speedtest.net###modal-overlay,#modal-container,.mobile-pretest,.mobile-during-test-banner,.result-area.result-area-ad
+! Updated 2026-03-15
+speedtest.net###modal-overlay,#modal-container,.mobile-pretest,.mobile-during-test-banner,.result-area.result-area-ad,div[data-view-name="mobile-eot-banner"]
+speedtest.net##.result-area.result-area-connection:style(margin-top: 20px !important)
 
 ! Updated 2025-12-28
 straitstimes.com##div.article-ads-wrapper
