@@ -1,6 +1,6 @@
 ! Title: Manny's custom filters
-! Version: 20260315
-! Last modified: 2026-03-15
+! Version: 20260317
+! Last modified: 2026-03-17
 ! Expires: 14 days (update frequency)
 !
 !--------------------------General blocking rules-----------------------------!
@@ -78,6 +78,11 @@ dailyhive.com##main.main-container > section.article-holder > div[class*="BaseMo
 ! Updated 2025-09-26
 dev.to##div#index-container > div#sidebar-wrapper-left > aside.side-bar > div.crayons-card.crayons-card--secondary.p-4
 dev.to##div#page-content > div#page-content-inner > div.js-billboard-container.pb-4.crayons-layout__comments-billboard
+
+! Updated 2026-03-17
+dwpinsider.com##div.mfp-wrap.site-access-popup
+dwpinsider.com##div.mfp-bg.site-access-popup
+dwpinsider.com##html:style(overflow: auto !important;)
 
 ! Updated 2024-10-29
 examtopics.com##.contrib-new.contrib > .contrib__block
