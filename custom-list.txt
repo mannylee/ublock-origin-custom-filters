@@ -1,6 +1,6 @@
 ! Title: Manny's custom filters
-! Version: 20260317
-! Last modified: 2026-03-17
+! Version: 20260319
+! Last modified: 2026-03-19
 ! Expires: 14 days (update frequency)
 !
 !--------------------------General blocking rules-----------------------------!
@@ -139,6 +139,9 @@ perplexity.ai##.bg-offset.divide-borderMain\/50.ring-borderMain\/50.border-borde
 perplexity.ai##.duration-300.ease-in.fade-in.animate-in.right-0.left-0.bottom-0.fixed.flex-col.md\:max-h-\[96vh\].h-\[100dvh\].w-screen.justify-end.items-center.flex.to-transparent.from-45\%.from-base.bg-gradient-to-t.fill-mode-both.scrollbar-subtle.overflow-y-auto.shadow-md
 perplexity.ai##div.fixed.right-md.bottom-md.md\:block
 perplexity.ai##div.h-bannerHeight.cursor-pointer.justify-center.bg-super
+
+! Updated 2026-03-19
+propertyguru.*##.cookie-banner-section-root
 
 ! Updated 2025-08-29 
 shangri-la.com##div:has(#js-cookie-modal)
