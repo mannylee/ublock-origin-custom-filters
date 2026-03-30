@@ -1,6 +1,6 @@
 ! Title: Manny's custom filters
-! Version: 20260319
-! Last modified: 2026-03-19
+! Version: 20260330
+! Last modified: 2026-03-30
 ! Expires: 14 days (update frequency)
 !
 !--------------------------General blocking rules-----------------------------!
@@ -114,6 +114,15 @@ globalnews.ca##div#newsletters-signup-sidebar
 
 ! 2025-12-27
 hsbc.com.sg###cam10Banner
+
+! Updated 2026-03-30
+iherb.com##.iherb-overlay
+iherb.com###welcome-modal
+iherb.com##.call-to-action-container
+iherb.com##.email-subscription-new-container
+iherb.com##.wellness-chatbot-entrance
+iherb.com##.mail-list-wrap
+iherb.com##.css-ncaamn,.css-i67oh5,.css-922q61-AppSignUp,.css-1u89rtx
 
 ! Updated 2025-09-26
 ip.me##div.container > div.d-flex.align-items-center.cta-container, div.container > div.container.three-boxes, div.container > h2.mt-5.faq-title, div.container > div#accordion
