@@ -1,6 +1,6 @@
 ! Title: Manny's custom filters
-! Version: 20260330
-! Last modified: 2026-03-30
+! Version: 20260331
+! Last modified: 2026-03-31
 ! Expires: 14 days (update frequency)
 !
 !--------------------------General blocking rules-----------------------------!
@@ -167,6 +167,12 @@ mysinglife.singlife.com##div.css-1uscdaf
 ! Updated 2026-03-15
 speedtest.net###modal-overlay,#modal-container,.mobile-pretest,.mobile-during-test-banner,.result-area.result-area-ad,div[data-view-name="mobile-eot-banner"]
 speedtest.net##.result-area.result-area-connection:style(margin-top: 20px !important)
+
+! Updated 2026-03-31
+stackedhomes.com##[class*="ats-overlay-bottom-wrapper"]:remove()
+stackedhomes.com##[id*="ats-insert_ads-"]:remove()
+stackedhomes.com##.gps-banner.google-preferred-source
+stackedhomes.com##.roko-instabot-widget,.roko-instabot-widget-button
 
 ! Updated 2025-12-28
 straitstimes.com##div.article-ads-wrapper
