@@ -10,7 +10,7 @@
 ! Google sign in picker
 ###credential_picker_container
 ! Google preferred source button
-##[href*="google.com/preferences/source"]
+##a[href*="google.com/preferences/source"]
 ! Cookies consent
 ###onetrust-consent-sdk
 ###ot-pc-slim
