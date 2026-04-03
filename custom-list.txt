@@ -106,6 +106,12 @@ ft.com##div.n-layout__header-before > div.slot-wrapper
 ft.com##div.n-layout__row.n-layout__row--header > div.n-layout__header-before
 ft.com##div.article__content-sign-up
 
+! Updated 2026-04-03
+globalnews.ca##[data-ad-container-for]
+globalnews.ca##div.ab-detect.player-message
+globalnews.ca##div.onesignal-slidedown-container.onesignal-reset.slide-down
+globalnews.ca##div#home-promoBanners
+
 ! Updated 2025-08-29
 gsmarena.com##:xpath(//div[h4[contains(translate(normalize-space(text()), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'gsmarena daily deals')]]):style(visibility: hidden !important; display: none !important)
 
