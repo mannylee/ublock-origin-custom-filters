@@ -113,6 +113,7 @@ hardwarezone.com.sg##div.sphm_ad_container
 hardwarezone.com.sg##main div:has(> a[href*="/newsletter-signup"])
 hardwarezone.com.sg##div[class*="newsletterOuterContainer"]
 hardwarezone.com.sg##+js(set, div[class*="newsletterOuterContainer"], display, none)
+hardwarezone.com.sg##div[data-layout-position="midcontent"]
 
 ! Updated 2025-09-28
 globalnews.ca##.c-inlineSignup
