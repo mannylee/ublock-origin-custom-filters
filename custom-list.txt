@@ -1,19 +1,22 @@
 ! Title: Manny's custom filters
-! Version: 20260331
-! Last modified: 2026-03-31
-! Expires: 14 days (update frequency)
+! Last modified: %timestamp%
+! Expires: 7 days
+! Version: 20260403
 !
 !--------------------------General blocking rules-----------------------------!
 ! custom-list.txt
 
-! Updated 2024-07-24
+! Updated 2026-04-03
 ! Google sign in picker
 ###credential_picker_container
+! Google preferred source button
+##[href*="google.com/preferences/source"]
 ! Cookies consent
 ###onetrust-consent-sdk
 ###ot-pc-slim
 
 
+!--------------------------Site specific blocking rules-----------------------!
 ! Updated 2025-09-26
 1337x.st,1337x.to##in-page-message
 
@@ -177,6 +180,13 @@ stackedhomes.com##.roko-instabot-widget,.roko-instabot-widget-button
 ! Updated 2025-12-28
 straitstimes.com##div.article-ads-wrapper
 straitstimes.com##div#am-widget
+
+! Updated 2026-04-03
+theguardian.com##figure[data-spacefinder-type*="newslettersignup" i]
+theguardian.com##div#bannerandheader > header > section
+theguardian.com##div#sign-in-gate:remove()
+theguardian.com##gu-island[name="StickyBottomBanner"]
+theguardian.com##gu-island[name="SlotBodyEnd"]
 
 ! Updated 2025-12-27
 thehoneycombers.com##div.pum.pum-overlay.pum-theme-default-theme.popmake-overlay.auto_open.click_open[id*="pum-"]
