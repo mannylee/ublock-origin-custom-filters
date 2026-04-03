@@ -43,6 +43,11 @@ cathaypacific.com##.browserAlert
 ! Updated 2025-08-30
 changiairport.com##.cmp-experiencefragment.cmp-experiencefragment--cookie
 
+! Updated 2026-04-03
+channelnewsasia.com##div.fast-button__wrapper.fast-button__wrapper--floating
+channelnewsasia.com##div.google-preferred__button-wrapper
+channelnewsasia.com##div.subscription-block-identifier.widget-subscription:upward(1)
+
 ! Updated 2025-12-27
 chatgpt.com##div[role="dialog"][aria-modal="true"][aria-live="polite"].z-\[100\]
 chatgpt.com##div.text-token-text-secondary.text-xs.justify-center.\[view-transition-name\:var\(--vt-disclaimer\)\]
