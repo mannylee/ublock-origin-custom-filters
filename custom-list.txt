@@ -1,7 +1,7 @@
 ! Title: Manny's custom filters
 ! Last modified: %timestamp%
 ! Expires: 7 days
-! Version: 20260403
+! Version: 20260405
 !
 !--------------------------General blocking rules-----------------------------!
 ! custom-list.txt
@@ -43,10 +43,14 @@ cathaypacific.com##.browserAlert
 ! Updated 2025-08-30
 changiairport.com##.cmp-experiencefragment.cmp-experiencefragment--cookie
 
-! Updated 2026-04-03
+! Updated 2026-04-05
 channelnewsasia.com##div.fast-button__wrapper.fast-button__wrapper--floating
 channelnewsasia.com##div.google-preferred__button-wrapper
 channelnewsasia.com##div.subscription-block-identifier.widget-subscription:upward(1)
+channelnewsasia.com##[id^="browsi_ad" i]:upward(1)
+channelnewsasia.com##.ad-entity-container:upward(1)
+channelnewsasia.com##section[data-title="Outbrain Block"]
+channelnewsasia.com##.in-article-games
 
 ! Updated 2025-12-27
 chatgpt.com##div[role="dialog"][aria-modal="true"][aria-live="polite"].z-\[100\]
