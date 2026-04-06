@@ -41,6 +41,15 @@ androidpolice.com##.adsninja-injected-repeatable-ad-afterend.even-cards.w-displa
 bitwarden.com##body > div#app > div.bg-secondary-50 > div.relative.bg-indigoBlue.text-white.text-center.align-middle.pt-2.pb-3.border-deepBlue, main > div > section#password-generator-hero, main > div > section#gm-5-star-user-ratings-validation
 bitwarden.com##section { padding-top: 0px !important; }
 
+! Updated 2026-04-06
+businesstimes.com.sg##div[data-testid="article-inside-btg-newsletter-component"]
+businesstimes.com.sg##div[data-testid="cas-block-component"]
+businesstimes.com.sg##div.track-impression.relative.transition-all
+businesstimes.com.sg##div[data-testid="taboola-component"]
+businesstimes.com.sg##div[data-testid="section-masthead-component"]:upward(2)
+businesstimes.com.sg##div[data-testid="eshop-overlay-visibility-gate"]
+businesstimes.com.sg##.lg\:h-auto.lg\:col-start-3.bg-gray-125
+
 ! Updated 2025-08-31
 cathaypacific.com##html:style(overflow:auto !important; overflowY:unset !important; )
 cathaypacific.com##body:style(overflow:auto !important; height:100vh !important;)
