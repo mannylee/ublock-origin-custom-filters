@@ -221,12 +221,15 @@ stackedhomes.com##[id*="ats-insert_ads-"]:remove()
 stackedhomes.com##.gps-banner.google-preferred-source
 stackedhomes.com##.roko-instabot-widget,.roko-instabot-widget-button
 
-! Updated 2026-04-03
+! Updated 2026-04-06
 straitstimes.com##div.article-ads-wrapper
 straitstimes.com##div#am-widget
 straitstimes.com##div#ei_subscribe
 straitstimes.com##div[data-testid*="paywall"]
 straitstimes.com##div.paywall
+straitstimes.com##div.innity-apps-ad-loaded
+straitstimes.com##div.ad-wrapper.listing-ads.lb1-ad
+straitstimes.com##div#dfp-ad-lb1:upward(1)
 
 ! Updated 2026-04-03
 theguardian.com##figure[data-spacefinder-type*="newslettersignup" i]
