@@ -130,8 +130,8 @@ gsmarena.com##:xpath(//div[h4[contains(translate(normalize-space(text()), 'ABCDE
 ! Updated 2026-04-03
 hardwarezone.com.sg##div.widget_highlight_forum_ads, div.focus-ad
 hardwarezone.com.sg##div.sphm_ad_container.lb-wrapper.top-lb-wrapper
-hardwarezone.com.sg##div.sphm_ad_sticky_container, 
-hardwarezone.com.sg##div.innity-apps-sticky-ad[id^="innity_adslot_"], 
+hardwarezone.com.sg##div.sphm_ad_sticky_container
+hardwarezone.com.sg##div.innity-apps-sticky-ad[id^="innity_adslot_"]
 hardwarezone.com.sg##div#sphm_overlay
 hardwarezone.com.sg##div#am-widget
 hardwarezone.com.sg##div.sphm_ad_container
