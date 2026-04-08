@@ -68,9 +68,10 @@ channelnewsasia.com##.ad-entity-container:upward(1)
 channelnewsasia.com##section[data-title="Outbrain Block"]
 channelnewsasia.com##.in-article-games
 
-! Updated 2025-12-27
+! Updated 2026-04-08
 chatgpt.com##div[role="dialog"][aria-modal="true"][aria-live="polite"].z-\[100\]
 chatgpt.com##div.text-token-text-secondary.text-xs.justify-center.\[view-transition-name\:var\(--vt-disclaimer\)\]
+chatgpt.com##.md\:px-\[60px\].\[view-transition-name\:var\(--vt-disclaimer\)\].text-xs.text-center.overflow-hidden.w-full.relative.text-token-text-secondary.-mt-4
 
 ! Updated 2025-08-29
 chocolatey.org##body { overflow: visible !important; padding-right: 0 !important; }
