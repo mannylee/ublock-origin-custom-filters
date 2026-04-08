@@ -1,19 +1,18 @@
 ! Title: Manny's custom filters
 ! Last modified: %timestamp%
 ! Expires: 7 days
-! Version: 20260406
-!
-!--------------------------General blocking rules-----------------------------!
+! Version: 20260408
 ! custom-list.txt
+!--------------------------General blocking rules-----------------------------!
 
-! Updated 2026-04-03
+! Updated 2026-04-08
 ! Google sign in picker
-###credential_picker_container
+*###credential_picker_container
 ! Google preferred source button
-##a[href*="google.com/preferences/source"]
+*##a[href*="google.com/preferences/source"]
 ! Cookies consent
-###onetrust-consent-sdk
-###ot-pc-slim
+*###onetrust-consent-sdk
+*###ot-pc-slim
 
 
 !--------------------------Site specific blocking rules-----------------------!
