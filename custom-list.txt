@@ -138,6 +138,10 @@ gsmarena.com##:xpath(//div[h4[contains(translate(normalize-space(text()), 'ABCDE
 ! Updated 2026-04-08
 homeanddecor.com.sg##div.sphm_ad_container
 homeanddecor.com.sg##div#app > main > div[style*="--mobile-banner-mobile-up-display"]
+homeanddecor.com.sg##div.sphm_ad_sticky_container
+homeanddecor.com.sg##div[data-layout-position="midcontent"]
+homeanddecor.com.sg##div[class*="subscriptionContainer"]
+homeanddecor.com.sg##div[class*="newsletterOuterContainer"]
 
 ! Updated 2026-04-03
 hardwarezone.com.sg##div.widget_highlight_forum_ads, div.focus-ad
