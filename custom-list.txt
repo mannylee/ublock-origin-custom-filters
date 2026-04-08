@@ -237,6 +237,9 @@ stackedhomes.com##[id*="ats-insert_ads-"]:remove()
 stackedhomes.com##.gps-banner.google-preferred-source
 stackedhomes.com##.roko-instabot-widget,.roko-instabot-widget-button
 
+! Updated 2026-04-08
+stomp.sg##div[id*="dfp-ad-lb"]:upward(2)
+
 ! Updated 2026-04-06
 straitstimes.com##div.article-ads-wrapper
 straitstimes.com##div#am-widget
