@@ -135,6 +135,10 @@ globalnews.ca##div#home-promoBanners
 ! Updated 2025-08-29
 gsmarena.com##:xpath(//div[h4[contains(translate(normalize-space(text()), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'gsmarena daily deals')]]):style(visibility: hidden !important; display: none !important)
 
+! Updated 2026-04-08
+homeanddecor.com.sg##div.sphm_ad_container
+homeanddecor.com.sg##div#app > main > div[style*="--mobile-banner-mobile-up-display"]
+
 ! Updated 2026-04-03
 hardwarezone.com.sg##div.widget_highlight_forum_ads, div.focus-ad
 hardwarezone.com.sg##div.sphm_ad_container.lb-wrapper.top-lb-wrapper
