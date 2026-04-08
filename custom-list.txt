@@ -196,6 +196,10 @@ medium.com##div:has(> div > div > p > span:has-text(Writing is for everyone))
 moneysmart.sg##.ab-modal-interactions.ab-html-message.ab-in-app-message
 moneysmart.sg##div.listing-card--closed.listing-card--new-product-image-size.listing-card--badge.listing-card--exclusive.listing-card--product.listing-card > .listing-card__sponsored
 
+! Updated 2026-04-08
+mothership.sg##p:has(img[src*="telegram-button.png"])
+mothership.sg##p:has(img[src*="wa-button.png"])
+
 ! Updated 2026-04-05
 nexusmods.com##.ads-top.clearfix.ads-holder
 nexusmods.com##.ads-bottom.clearfix.ads-holder
