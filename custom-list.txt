@@ -36,9 +36,12 @@ androidpolice.com##.promotion-offer-box
 androidpolice.com##.is-mobile-only.w-google-addus-btn
 androidpolice.com##.adsninja-injected-repeatable-ad-afterend.even-cards.w-display-card-list
 
-! Updated 2025-09-26
+! Updated 2026-04-12
 bitwarden.com##body > div#app > div.bg-secondary-50 > div.relative.bg-indigoBlue.text-white.text-center.align-middle.pt-2.pb-3.border-deepBlue, main > div > section#password-generator-hero, main > div > section#gm-5-star-user-ratings-validation
 bitwarden.com##section { padding-top: 0px !important; }
+bitwarden.com##div#app > div > div.w-full.xl\:px-4.bg-bw-deep-blue.border-b.border-deepBlue.z-3.overflow-hidden.xl\:mb-4
+bitwarden.com##div#app > div > main > div > section.cards-hero.max-w-8xl.mx-auto.relative.overflow-hidden.px-5.lg\:px-9.grid.gap-y-10
+bitwarden.com##section#password-generator div.absolute.bottom-0.left-0.w-full.transition-transform.duration-300.max-h-full.z-10.bg-white.dark\:bg-secondary-700.rounded-t-3xl.opacity-100.translate-y-0
 
 ! Updated 2026-04-06
 businesstimes.com.sg##div[data-testid="article-inside-btg-newsletter-component"]
