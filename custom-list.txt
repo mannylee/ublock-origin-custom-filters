@@ -1,7 +1,7 @@
 ! Title: Manny's custom filters
 ! Last modified: %timestamp%
 ! Expires: 7 days
-! Version: 20260419
+! Version: 20260429
 ! custom-list.txt
 !--------------------------General blocking rules-----------------------------!
 
@@ -93,6 +93,13 @@ circles.life##div.css-p39czc:style(margin-top: 0px !important)
 circles.life##div.css-1s984ub:style(margin-top: 0px !important)
 circles.life##div#ExpandableMasthead:style(margin-top: 0px !important)
 circles.life##div[class^="lightbox-"]:style(margin-top: 0px !important)
+
+! Updated 2026-04-29
+cnet.com##body > div.preloaded_lightbox
+cnet.com##body > div.pushPrompt
+cnet.com##div[section="article-body"] div.c-CnetAvStickyVideo:upward(1):remove()
+cnet.com##div.c-shortcodeVideo_wrap:upward(1):remove()
+cnet.com##.c-pageArticleRoadshow_rightRail
 
 ! Updated 2024-07-10
 codeburst.io##.rz.ry.rx.m
