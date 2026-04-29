@@ -8,6 +8,7 @@
 ! Updated 2026-04-08
 ! Google sign in picker
 *###credential_picker_container
+*###credential_picker_iframe
 ! Google preferred source button
 *##a[href*="google.com/preferences/source"]
 ! Cookies consent
