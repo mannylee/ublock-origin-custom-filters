@@ -1,7 +1,7 @@
 ! Title: Manny's custom filters
 ! Last modified: %timestamp%
 ! Expires: 7 days
-! Version: 20260429
+! Version: 20260530
 ! custom-list.txt
 !--------------------------General blocking rules-----------------------------!
 
@@ -248,6 +248,9 @@ singlife.com##div.sl-notification
 singlife.com##div.promobar.aem-GridColumn.aem-GridColumn--default--12
 mysinglife.singlife.com##div.css-gnoxxa
 mysinglife.singlife.com##div.css-1uscdaf
+
+! Updated 2026-05-30
+singpost.com##astro-island[component-url*="ConsentPopup"]
 
 ! Updated 2026-03-15
 speedtest.net###modal-overlay,#modal-container,.mobile-pretest,.mobile-during-test-banner,.result-area.result-area-ad,div[data-view-name="mobile-eot-banner"]
